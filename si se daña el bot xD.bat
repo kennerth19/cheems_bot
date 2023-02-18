@@ -1,0 +1,1 @@
+cd C:\xampp\htdocs\Prueba_bot && npm i whatsapp-web.js qrcode-terminal axios puppeteer

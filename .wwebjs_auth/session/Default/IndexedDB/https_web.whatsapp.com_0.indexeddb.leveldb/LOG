@@ -1,0 +1,40 @@
+2023/02/18-08:06:36.146 14c4 Reusing MANIFEST C:\xampp\htdocs\Prueba_bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/18-08:06:36.147 14c4 Recovering log #1327
+2023/02/18-08:06:37.136 14c4 Reusing old log C:\xampp\htdocs\Prueba_bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001327.log 
+2023/02/18-08:07:22.122 1ea8 Level-0 table #1339: started
+2023/02/18-08:07:22.450 1ea8 Level-0 table #1339: 1229604 bytes OK
+2023/02/18-08:07:22.551 1ea8 Delete type=0 #1327
+2023/02/18-08:07:22.710 1ea8 Compacting 1@1 + 8@2 files
+2023/02/18-08:07:34.243 1ea8 Generated table #1340@1: 106456 keys, 2258932 bytes
+2023/02/18-08:07:39.870 1ea8 Generated table #1341@1: 83346 keys, 2424353 bytes
+2023/02/18-08:07:40.698 1ea8 Generated table #1342@1: 8802 keys, 2161786 bytes
+2023/02/18-08:07:44.635 1ea8 Generated table #1343@1: 25941 keys, 2215830 bytes
+2023/02/18-08:07:50.057 1ea8 Generated table #1344@1: 9487 keys, 2142361 bytes
+2023/02/18-08:07:59.276 1ea8 Generated table #1345@1: 98033 keys, 2247287 bytes
+2023/02/18-08:08:06.667 1ea8 Generated table #1346@1: 101138 keys, 2253128 bytes
+2023/02/18-08:08:19.073 1ea8 Generated table #1347@1: 48757 keys, 1100819 bytes
+2023/02/18-08:08:19.073 1ea8 Compacted 1@1 + 8@2 files => 16804496 bytes
+2023/02/18-08:08:19.104 1ea8 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/02/18-08:08:19.104 1ea8 Delete type=2 #1329
+2023/02/18-08:08:19.104 1ea8 Delete type=2 #1330
+2023/02/18-08:08:19.104 1ea8 Delete type=2 #1331
+2023/02/18-08:08:19.104 1ea8 Delete type=2 #1332
+2023/02/18-08:08:19.104 1ea8 Delete type=2 #1333
+2023/02/18-08:08:19.104 1ea8 Delete type=2 #1334
+2023/02/18-08:08:19.104 1ea8 Delete type=2 #1335
+2023/02/18-08:08:19.104 1ea8 Delete type=2 #1336
+2023/02/18-08:08:19.104 1ea8 Delete type=2 #1339
+2023/02/18-11:47:10.343 b24 Level-0 table #1349: started
+2023/02/18-11:47:11.455 b24 Level-0 table #1349: 1478666 bytes OK
+2023/02/18-11:47:11.702 b24 Delete type=0 #1338
+2023/02/18-11:47:17.053 b24 Compacting 1@1 + 8@2 files
+2023/02/18-11:47:19.177 b24 Generated table #1350@1: 106948 keys, 2259833 bytes
+2023/02/18-11:47:20.270 b24 Generated table #1351@1: 83766 keys, 2445750 bytes
+2023/02/18-11:47:20.942 b24 Generated table #1352@1: 8796 keys, 2160032 bytes
+2023/02/18-11:47:21.536 b24 Generated table #1353@1: 24507 keys, 2212058 bytes
+2023/02/18-11:47:22.829 b24 Generated table #1354@1: 11095 keys, 2148839 bytes
+2023/02/18-11:47:26.102 b24 Generated table #1355@1: 94706 keys, 2242440 bytes
+2023/02/18-11:47:28.818 b24 Generated table #1356@1: 100906 keys, 2252063 bytes
+2023/02/18-11:47:29.555 b24 Generated table #1357@1: 52750 keys, 1187835 bytes
+2023/02/18-11:47:29.555 b24 Compacted 1@1 + 8@2 files => 16908850 bytes
+2023/02/18-11:47:29.649 b24 compacted to: files[ 0 0 8 0 0 0 0 ]
